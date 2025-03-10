@@ -5,6 +5,8 @@
     <li> 🎓 Estudante de técnico em Desenvolvimento de Sistemas na escola Joaquim Izidoro Marins.</li>
     <li> Linguagens: **Python.** 💬</li>
 </ul>
+<hr>
+## 🚀 Começando
 
 
 <!--
