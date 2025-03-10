@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1>Olá, tudo bem? </h1>
+<ul> 
+    <li> Resido em Sorocaba/sp 📫</li>
+    <li> Nascimento em 27/07/2007 🌱</li>
+    <li> 🎓 Estudante de técnico em Desenvolvimento de Sistemas na escola Joaquim Izidoro Marins.</li>
+     
+
+
+
+
+</ul>
 
 <!--
 **marioca221/marioca221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
