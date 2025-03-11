@@ -11,7 +11,7 @@
 </ul>
 [<h1> Formas de contato ⤵️ </h1>
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="malito:marialuizaalmeidaamaral95@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
 </p>
 
