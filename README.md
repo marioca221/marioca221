@@ -9,7 +9,11 @@
     <li> 🎓 Estudante de técnico em Desenvolvimento de Sistemas na escola Joaquim Izidoro Marins.</li>
     <li> Linguagens: **Python.** 💬</li>
 </ul>
-[<h1>Olá, tudo bem? 💜 </h1>
+[<h1> Formas de contato ⤵️ </h1>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+</p>
 
 <!--
 **marioca221/marioca221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
