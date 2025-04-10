@@ -6,7 +6,7 @@
 <ul> 
     <li> Resido em Sorocaba/sp </li>
     <li> Nascimento em 27/07/2007 </li>
-    <li> 🎓 Estudante de técnico em Desenvolvimento de Sistemas na escola Joaquim Izidoro Marins.</li>
+    <li> Estudante de técnico em Desenvolvimento de Sistemas na escola Joaquim Izidoro Marins.</li>
     <li> Linguagens: **Python.** </li>
 </ul>
 <p> Formas de contato ⤵️ </p>
